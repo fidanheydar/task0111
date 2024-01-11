@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Task0111\Task0111\bin\Debug\netcoreapp3.1\Task0111.exe
+C:\Users\HP\Desktop\Task0111\Task0111\bin\Debug\netcoreapp3.1\Task0111.deps.json
+C:\Users\HP\Desktop\Task0111\Task0111\bin\Debug\netcoreapp3.1\Task0111.runtimeconfig.json
+C:\Users\HP\Desktop\Task0111\Task0111\bin\Debug\netcoreapp3.1\Task0111.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Task0111\Task0111\bin\Debug\netcoreapp3.1\Task0111.dll
+C:\Users\HP\Desktop\Task0111\Task0111\bin\Debug\netcoreapp3.1\Task0111.pdb
+C:\Users\HP\Desktop\Task0111\Task0111\obj\Debug\netcoreapp3.1\Task0111.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Task0111\Task0111\obj\Debug\netcoreapp3.1\Task0111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Task0111\Task0111\obj\Debug\netcoreapp3.1\Task0111.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Task0111\Task0111\obj\Debug\netcoreapp3.1\Task0111.AssemblyInfo.cs
+C:\Users\HP\Desktop\Task0111\Task0111\obj\Debug\netcoreapp3.1\Task0111.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Task0111\Task0111\obj\Debug\netcoreapp3.1\Task0111.dll
+C:\Users\HP\Desktop\Task0111\Task0111\obj\Debug\netcoreapp3.1\Task0111.pdb
+C:\Users\HP\Desktop\Task0111\Task0111\obj\Debug\netcoreapp3.1\Task0111.genruntimeconfig.cache
